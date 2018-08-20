@@ -1,0 +1,28 @@
+/* ============================= Import Fonts ============================= */
+
+@import url(http://fonts.googleapis.com/css?family=Raleway:100,400);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400);
+
+/* ============================= General Rules ============================= */
+
+html {
+	overflow-y: scroll;
+}
+
+body { 
+	background: #ffffff;
+	font-family: 'Raleway', Arial, sans-serif;
+	font-size: 200%;
+	font-weight: 100;
+	line-height: 1.5;
+	letter-spacing: 0.5pt;
+	color: #fff;
+	text-align: center;
+	padding-top: 150px;
+	background: url(../images/bg.png) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
