@@ -1,2 +1,2 @@
 # elainehuynh.github.io
-[My Personal Website](https://elainehuynh.com)
+[My Personal Website](https://elainehuynh.github.io)
